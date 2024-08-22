@@ -160,11 +160,11 @@ You may notice the sign that says **Not secure**. Next, I will use certbot to ob
 `sudo apt install python3-certbot-nginx`
 `sudo certbot --nginx`
 
-![pj2](img/pj2.15.png)
+![pj2](img/PJ2.15.png)
 
 - I execute the **`sudo certbot --nginx`** command to request my certificate. Follow the instructions provided by certbot and select the domain name for which you would like to activate HTTPS.
 
-![pj2](img/pj2.16.png)
+![pj2](img/PJ2.16.png)
 
 > [NOTE]
 In this case, i simply pressed Enter to accept the default selection (**all available records**).
