@@ -1,6 +1,6 @@
 - Spin up my 3 ubuntu servers.
 
-![pj3](img/pj3.4.png)
+![pj4](img/pj4.1.png)
 
 ### Install Nginx and Setup Your Website
 
