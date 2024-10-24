@@ -302,3 +302,6 @@ After the push completes, you can verify that your image is on Docker Hub by vis
 - **Deployment**: You can pull images directly from Docker Hub in different environments, simplifying the deployment process.
 
 ---
+
+## END OF PROJECT 9
+----------
